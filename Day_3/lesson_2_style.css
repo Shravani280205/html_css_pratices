@@ -1,0 +1,27 @@
+.dog-img1,
+.dog-img2,
+.dog-img3 {
+  width : 200px;
+}
+.dog-img2 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+
+}
+
+.dog-img1 {
+  width: 250px;
+  border-radius: 15px;
+}
+
+
+
+.dog-img3 {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+}
